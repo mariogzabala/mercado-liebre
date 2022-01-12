@@ -1,0 +1,25 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h3.titulares{
+    font-size: 24px;
+}
+p.precio{
+    font-size: 18px;
+}
+p.descuento{
+    font-size: 16px;
+}
+p.descripcion{
+    font-size: 16px;
+}
+footer{
+    text-align: center;
+    background-color: #ebebeb;
+
+}
+footer p.iconos{
+    font-size: 30px;
+    color: #03264C ;
+}
