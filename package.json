@@ -7,14 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     
     "start": "nodemon app.js",
-    "dev": "nodemon --watch src app.js"
+    "dev": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.15"
   }
+
 }
